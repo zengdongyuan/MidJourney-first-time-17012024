@@ -1,4 +1,4 @@
 flask
-time
 requests
-json
+gunicorn
+replicate
